@@ -1,0 +1,12 @@
+bot : Hi! I am Dr. Bot. Can you please tell me your name?
+user : name john
+bot : Hi JOHN How are feeling?
+user : not good
+bot : You seem to be very neutral about the health condition. I would like to know more to help you better. - Okay. can you tell me what's wrong? what are your symptoms?
+user : body temperature has raised
+bot : Hey JOHN! The symptoms you are experiencing may be of fever with a chance of 60%. You may contact a Doctor.
+Do you have symptoms of any other patients also?
+user : what should I do?
+bot : - you should take a tablet of crocin after you have your meal.
+user : Ok, i will take the crocin.
+bot : - let me know if you are feeling better after having crocin.
